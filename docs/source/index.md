@@ -10,6 +10,22 @@ We want to make sure that your journey with Robot Framework is a pleasant one.
 
 So we are going to introduce you to our best practices when using Robot Framework.
 
+```{toctree}
+:maxdepth: 2
+:caption: "Contents:"
+
+about_us
+getting_started
+different_libraries
+testcase_writing_styles
+test_execution
+flaky_tests
+tool_integration
+reporting_alternatives
+parsing_results
+releasing_your_own_libraries
+```
+
 Starting wih a **proper setup** for *development* and *debugging*, so things like    
 - how to install Python and Robot Framework properly
 - which IDE and Extensions to use
@@ -40,18 +56,3 @@ Did you know that parsing the results of your tests is really simple using the R
 Maybe you want to develop and release your own Robot Framework libraries at some point and want to know how to get started?
 
 
-```{toctree}
-:maxdepth: 2
-:caption: "Contents:"
-
-about_us
-getting_started
-different_libraries
-testcase_writing_styles
-test_execution
-flaky_tests
-tool_integration
-reporting_alternatives
-parsing_results
-releasing_your_own_libraries
-```

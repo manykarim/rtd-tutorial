@@ -2,7 +2,7 @@
 
 We are an example page for Robot Framework Trainings
 
-### Heading 3
+### Why we do we do this?
 
 We are a **bold** training provider and we are *innovative*
 

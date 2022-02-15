@@ -12,6 +12,10 @@
 
 ### Visual Studio Code
 
+#### RoboCorp Robot Framework Extension
+
+#### RobotCode Extension
+
 ### RIDE
 
 ### Recommendations
